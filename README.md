@@ -22,7 +22,7 @@
 
 ```yaml
 name        : Thai Nguyen
-role        : Mobile & Backend Developer
+role        : Full-Snack Developer Mobile & Web
 education   : IT Student @ University of Sciences, Hue University
 focus       :
   - Cross-platform Mobile Apps (Flutter)
