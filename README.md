@@ -94,15 +94,15 @@ currently   : "Always learning, always building 🚀"
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nkhungthaihusc&show_icons=true&theme=tokyonight&hide_border=true&title_color=02569B&icon_color=02569B&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nkhungthaihusc&layout=compact&theme=tokyonight&hide_border=true&title_color=02569B&langs_count=8" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nkhungthaihusc&theme=tokyonight" height="180em" alt="GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nkhungthaihusc&theme=tokyonight" height="180em" alt="Top Languages" />
 
 </div>
 
 <div align="center">
 
 <!-- GitHub Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nkhungthaihusc&theme=tokyonight&hide_border=true&ring=02569B&fire=FF6B6B&currStreakLabel=02569B" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=nkhungthaihusc&theme=tokyonight&hide_border=true&ring=02569B&fire=FF6B6B&currStreakLabel=02569B" alt="GitHub Streak" />
 
 </div>
 
