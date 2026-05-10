@@ -133,9 +133,9 @@ currently   : "Always learning, always building 🚀"
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nkhungthaihusc/nkhungthaihusc/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nkhungthaihusc/nkhungthaihusc/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nkhungthaihusc/nkhungthaihusc/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/nkhungthaihusc/snake.svg?palette=codeberg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/nkhungthaihusc/snake.svg?palette=codeberg" />
+  <img alt="github contribution grid snake animation" src="https://github.com/nkhungthaihusc/snake.svg?palette=codeberg" />
 </picture>
 
 > 💡 **Hướng dẫn bật Snake Animation:** Tạo file `.github/workflows/snake.yml` trong repo profile của bạn và thêm GitHub Action để tự động tạo ảnh snake mỗi ngày. Xem [hướng dẫn tại đây](https://github.com/Platane/snk).
