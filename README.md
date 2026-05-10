@@ -94,15 +94,15 @@ currently   : "Always learning, always building 🚀"
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&title_color=02569B&icon_color=02569B&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&title_color=02569B&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nkhungthaihusc&show_icons=true&theme=tokyonight&hide_border=true&title_color=02569B&icon_color=02569B&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nkhungthaihusc&layout=compact&theme=tokyonight&hide_border=true&title_color=02569B&langs_count=8" />
 
 </div>
 
 <div align="center">
 
 <!-- GitHub Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&ring=02569B&fire=FF6B6B&currStreakLabel=02569B" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nkhungthaihusc&theme=tokyonight&hide_border=true&ring=02569B&fire=FF6B6B&currStreakLabel=02569B" alt="GitHub Streak" />
 
 </div>
 
@@ -133,12 +133,10 @@ currently   : "Always learning, always building 🚀"
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/nkhungthaihusc/snake.svg?palette=codeberg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/nkhungthaihusc/snake.svg?palette=codeberg" />
-  <img alt="github contribution grid snake animation" src="https://github.com/nkhungthaihusc/snake.svg?palette=codeberg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nkhungthaihusc/nkhungthaihusc/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nkhungthaihusc/nkhungthaihusc/output/snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nkhungthaihusc/nkhungthaihusc/output/snake.svg" />
 </picture>
-
-> 💡 **Hướng dẫn bật Snake Animation:** Tạo file `.github/workflows/snake.yml` trong repo profile của bạn và thêm GitHub Action để tự động tạo ảnh snake mỗi ngày. Xem [hướng dẫn tại đây](https://github.com/Platane/snk).
 
 </div>
 
